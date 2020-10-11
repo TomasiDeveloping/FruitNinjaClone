@@ -2,7 +2,7 @@
 
 Unity Test Game.
 
-Diese Game wurde anhand einer Videoanleitung erstellt.
+Dieses Game wurde anhand einer Videoanleitung erstellt.
 
 <img src="https://github.com/TomasiDeveloping/FruitNinjaClone/blob/master/ScreenShots/Screenshot%20(1).png" width="600">
 
